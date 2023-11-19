@@ -1,1 +1,1 @@
-# odin-recipes
+This project is learning about images and other elements in html.
